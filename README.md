@@ -1,2 +1,3 @@
 # Network-Monitor
-A professional software, offering full control &amp; monitoring of your router + Manage trafic and connections + Detecting risk of attacks and more...
+Have you ever thought about a program that provides high performance in network protection and security monitoring?
+So, <mark>Network Monitor</mark> is your <mark>best</mark> choice.
